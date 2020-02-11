@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+	background-color: grey;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #7E5A0E;
+	border: ridge;
+}
+h1 {
+	background-color: #F5EEEE;
+	font-size: 2.5em;
+	width: 99.1%;
+	border: dotted;
+	text-align: center;
+	color: burlywood;
+	font-weight: bold;
+	padding: inherit;
+	padding-top: 5px;
+}
+h2 {
+	background-color: #F5EEEE;
+	width: 22.6%;
+	border: #0A0A0A dashed;
+}
+p {
+	color: #000000;
+	font-size: 14px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+li {
+	color: #000000;
+	font-size: 18px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+#images {
+	text-align: center;
+}
