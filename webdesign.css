@@ -22,7 +22,7 @@ h2 {
 	border: #0A0A0A dashed;
 }
 p {
-	color: #000000;
+	color: #98453;
 	font-size: 14px;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
 }
@@ -33,4 +33,8 @@ li {
 }
 #images {
 	text-align: center;
+}
+
+.section {
+	color:#ABABAB;
 }
