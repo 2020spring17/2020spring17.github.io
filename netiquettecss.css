@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#E0E0E0;
+	font-family: Antic "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+
+}
+
+h1 { 
+    text-align: center;
+	color: #102FA8;
+	border: 4px;
+	border-color: #000000;
+	font-weight: 300;
+}
+
+#rules {
+	border: 2px solid;
+	border-color:#102FA8;
+	text-align: center;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+	
+#howtofollow {
+	text-align: center;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+li {
+	font-size: 15px;
+}
+
+h4 {
+	font-size: 22px;
+}
+
+.ruleone {
+	color: #0DC2B0; 
+}
+
+
+.ruletwo {
+	color: #13CBCB;
+} 
+
+.rulethree {
+	color: #1083C2;
+}
+
+.rulefour {
+	color: #134AB2;
+}
+
+.rulefive {
+	color: #0B1CC9;
+}
+
+.rulesix {
+	color: #0702D0;
+}
+
+.ruleseven {
+	color: #2515CB;
+}
+
+.ruleeight {
+	color: #2204E0;
+}
+#box {
+	width: 300px;
+	border: 8px solid #102FA8;
+	padding-bottom: 25px;
+	text-align:center;
+	margin-left: 248px;
+	margin-bottom: 1px;
+	margin-top: -110px;
+
+}
+#all {
+	width: 650px;
+	margin: auto;
+	border: thin;
+	border-color: antiquewhite;
+}
+
