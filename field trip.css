@@ -1,0 +1,70 @@
+/* CSS Document */
+
+body {
+	background-color: grey;
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: black;
+	border: outset;
+  border-color: navy;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	padding-top: 5px;
+  font-size: 45px;	
+}
+
+h5 {
+	color: black;
+	text-align: center;	
+	font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 4px;
+}
+
+
+p {
+	color: black;
+	padding-left: 7px;
+  font-family: Times, Times New Roman, serif;
+}
+
+
+footer {
+	color: black;
+	padding-left: 3px;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+
+
+a:link {color: #000069}
+a:hover {color: #e6e600}
+
+a {
+  color: red;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+table {
+  width: 400px;
+  text-align: center;
+}
+
+td {
+  background-color: #FFFFFF;
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+  border-style: inset;
+  border-color: #000000;
+  border-width: 5px;
+}
+
+th {
+  background-color: green;
+  font-family: "Arial Black", Gadget, sans-serif;
+  border-style: inset;
+  padding: 3px;
+  border-color: #000000;
+  border-width: 5px;
+}
